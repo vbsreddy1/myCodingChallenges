@@ -1,3 +1,4 @@
 # Interest Calculator
+This program accepts Principle Amount, Rate of Interest, Time period in Number of years, months, days separately as inputs and give the final amount with interest as output.
 
-This is my first program which I have ever written for a real time scenario i.e. to help my dad to calculate the interest for the money which he borrowed/lent.
+Note: Normal procedure it uses to calculate interest is Simple Interest, but for once every 3 years, it will compounded.
